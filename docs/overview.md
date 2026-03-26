@@ -1,18 +1,26 @@
-# Product Overview
+# Vision and Philosophy
 
-ngpocket is a swipe-first read-later and RSS workflow that turns article overload into a daily reading ritual.
+ngpocket exists for one reason: to protect attention.
 
-## Core Flow
+The modern web is excellent at collecting clicks but poor at supporting deep reading. ngpocket takes the opposite approach. It treats your reading time as limited and valuable.
 
-1. Ingest links from feeds or shared URLs.
-2. Triage quickly with directional swipe actions.
-3. Read deeply in a focused reader view.
-4. Capture highlights and tags.
-5. Return to a refreshed queue.
+## Why We Built It
 
-## Related Pages
+When Mozilla Pocket was discontinued, many readers lost a familiar way to save and revisit meaningful articles. ngpocket continues that category with a distinct voice: simpler, more tactile, and more personal.
 
-- [Experience](experience.md)
-- [Features](features.md)
-- [Architecture](architecture.md)
-- [Help](help.md)
+## Philosophy
+
+- Un-distracted reading over engagement loops
+- Intentional curation over infinite feeds
+- Lasting clarity over temporary novelty
+- Quiet confidence over visual noise
+
+## Product Character
+
+ngpocket combines a warm editorial tone with practical utility. It is built to feel human, grounded, and dependable.
+
+## Related
+
+- [Product Experience](experience.md)
+- [Feature Set](features.md)
+- [Reader Experience](reader.md)

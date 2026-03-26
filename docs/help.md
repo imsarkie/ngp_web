@@ -1,27 +1,19 @@
-# Help
+# Support
 
-Quick guidance for using ngpocket.
+This page is for support and product communication, not usage tutorials.
 
-## FAQ
+## Need Help?
 
-### How do swipes work?
+For questions, feedback, or business communication, use the contact channels below.
 
-Swipe left to mark as read, right to save, and up for next. Swipe down is currently disabled.
-
-### Where are saved articles?
-
-Use [Library](library.md) to browse saved stories with All, Unread, and Read filters.
-
-### Can I read offline?
-
-Yes. The product is local-first and optimized for unstable networks.
-
-### How does RSS sync work?
-
-Feeds can be refreshed manually, and morning sync behavior is controlled through settings.
-
-## Related Pages
-
-- [Experience](experience.md)
-- [Settings](settings.md)
 - [Contact Us](contact-us.md)
+
+## Policy and Legal
+
+- [Privacy Policy](privacy-policy.md)
+- [Terms and Conditions](terms-and-conditions.md)
+
+## Related
+
+- [Vision and Philosophy](overview.md)
+- [Feature Set](features.md)

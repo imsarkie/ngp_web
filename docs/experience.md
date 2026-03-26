@@ -1,20 +1,22 @@
-# Experience
+# Product Experience
 
-A triage flow designed for momentum.
+ngpocket is designed as a momentum-based reading companion.
 
-## Swipe Behavior
+Its experience is built around reducing friction between "I should read this" and "I understood this." The interface favors decisive actions, calm transitions, and clear outcomes.
 
-- Swipe left: mark article as read
-- Swipe right: save and parse article
-- Swipe up: move to next article
-- Swipe down: intentionally disabled
+## Experience Principles
 
-## Why It Works
+- Fast capture, slow reading
+- Minimal interruption during focus sessions
+- Clear states that avoid ambiguity
+- Low cognitive overhead in every screen
 
-Most read-later queues become stagnant because triage is slow. ngpocket uses directional actions to reduce decision friction and keep readers moving.
+## Usability Focus
 
-## Related Pages
+The product experience is intentionally lightweight so users can keep attention on content, not controls.
 
-- [Reader Mode](reader.md)
-- [Library](library.md)
-- [RSS Flow](rss.md)
+## Related
+
+- [Vision and Philosophy](overview.md)
+- [Feature Set](features.md)
+- [Saved Knowledge Space](library.md)

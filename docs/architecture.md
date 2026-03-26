@@ -1,24 +1,20 @@
-# Architecture
+# Reliability Principles
 
-Offline-first by design, not as an afterthought.
+ngpocket is built on reliability as a user promise.
 
-## Reliability Model
+## Principles
 
-- Local-first storage for articles, feeds, highlights, and tags
-- Predictable behavior under weak network conditions
-- Graceful parser fallback when remote parsing fails
-- Morning sync cadence for fresh unread queues
+- Local-first persistence for reading continuity
+- Predictable behavior in low-connectivity conditions
+- Graceful handling of remote content/parser instability
+- Durable access to saved material and annotations
 
-## Native Capability Clarification
+## Product Promise
 
-Some capabilities are platform-specific in native apps, including:
+A reading app should not feel fragile. When users save something, they should trust it will still be there when they are ready to read.
 
-- OS-managed background scheduling
-- Share intent interception
-- Haptic feedback
+## Related
 
-## Related Pages
-
-- [Features](features.md)
-- [RSS Flow](rss.md)
+- [Feature Set](features.md)
+- [Reader Experience](reader.md)
 - [Privacy Policy](privacy-policy.md)

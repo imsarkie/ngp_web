@@ -1,20 +1,19 @@
-# RSS Flow
+# Content Sources and RSS
 
-From feed URL to ready-to-read queue.
+ngpocket supports RSS as a foundation for reader-owned content discovery.
 
-## Workflow
+## Source Philosophy
 
-1. Add feed by URL.
-2. Refresh all feeds or individual feeds.
-3. Inspect feed previews.
-4. Import selected stories into reading queue.
+- Readers choose their sources
+- Source quality matters more than algorithmic volume
+- Intake should remain manageable and deliberate
 
-## Operational Value
+## Value
 
-Feed controls stay explicit and easy to access, reducing configuration friction while preserving source-level control.
+RSS integration keeps reading intentional and independent from attention-driven timelines.
 
-## Related Pages
+## Related
 
-- [Experience](experience.md)
-- [Architecture](architecture.md)
-- [Settings](settings.md)
+- [Feature Set](features.md)
+- [Saved Knowledge Space](library.md)
+- [Reliability Principles](architecture.md)

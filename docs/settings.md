@@ -1,22 +1,19 @@
-# Settings
+# Personalization and Control
 
-Personalization and sync controls with clear feedback.
+ngpocket gives users meaningful control over reading comfort and product behavior.
 
-## Available Controls
+## Control Areas
 
-- Reader typography preferences
-- Font scale and alignment options
-- Parser endpoint configuration
-- Highlights overview and management
-- Morning sync toggle
-- Unread threshold control (3-10)
+- Typography and visual reading preferences
+- Notification and sync preferences
+- Sensible defaults with optional refinement
 
-## Notification Behavior
+## Design Intent
 
-Sync notifications are designed to route users directly into relevant reading context.
+Personalization is offered to support focus, not to overwhelm with configuration.
 
-## Related Pages
+## Related
 
-- [Reader Mode](reader.md)
-- [RSS Flow](rss.md)
-- [Features](features.md)
+- [Reader Experience](reader.md)
+- [Feature Set](features.md)
+- [Product Experience](experience.md)

@@ -1,6 +1,6 @@
 # Contact Us
 
-Reach out for product questions, partnerships, or support.
+Reach out for product questions, partnerships, support, or feedback about the ngpocket reading philosophy.
 
 ## Contact Channels
 
@@ -12,7 +12,7 @@ Reach out for product questions, partnerships, or support.
 
 Typical response time is 1-2 business days.
 
-## Related Pages
+## Related
 
 - [Help](help.md)
 - [Privacy Policy](privacy-policy.md)

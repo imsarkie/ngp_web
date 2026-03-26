@@ -1,20 +1,19 @@
-# Library
+# Saved Knowledge Space
 
-Saved collection management that stays clear and deliberate.
+The library represents accumulated intent, not forgotten bookmarks.
 
-## Library Behavior
+## Library Philosophy
 
-- Filter by All, Unread, and Read
-- Mark and review article state
-- Remove while keeping highlights
-- Remove article plus associated highlights
+- Saved content should remain searchable and meaningful
+- Read-state clarity prevents archive decay
+- Highlights and notes should preserve long-term value
 
-## Why It Matters
+## Outcome
 
-Saved lists become noisy when state transitions are unclear. ngpocket keeps status and cleanup actions explicit.
+Over time, the library becomes a personal knowledge base instead of a backlog of guilt.
 
-## Related Pages
+## Related
 
-- [Reader Mode](reader.md)
-- [Features](features.md)
-- [Help](help.md)
+- [Reader Experience](reader.md)
+- [Feature Set](features.md)
+- [Content Sources and RSS](rss.md)

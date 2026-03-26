@@ -1,20 +1,22 @@
-# Reader Mode
+# Reader Experience
 
-Long-form reading focused on clarity, hierarchy, and flow.
+The reader is the heart of ngpocket.
 
-## Reading Experience
+It is designed for long attention spans, visual calm, and comprehension-first reading.
 
-- Clean rendering of headings, quotes, lists, and paragraphs
-- Visible reading progress
-- Quick access to original source links
-- Low-friction annotation with highlights and tags
+## Reader Values
 
-## Trust Notes
+- Comfortable typography and spacing
+- Clear document structure
+- Minimal interface distraction
+- Persistent reading continuity
 
-When parser services are unavailable, content fallback keeps articles accessible and readable.
+## Why It Matters
 
-## Related Pages
+Many products optimize for open-rate. ngpocket optimizes for understanding.
 
-- [Settings](settings.md)
-- [Library](library.md)
-- [Help](help.md)
+## Related
+
+- [Vision and Philosophy](overview.md)
+- [Feature Set](features.md)
+- [Personalization and Control](settings.md)

@@ -1,12 +1,14 @@
-# ngpocket Markdown Docs
+# ngpocket Website Content
 
-This repository is now a Markdown-only website source.
+This repository contains the Markdown source for the ngpocket website.
 
-## Entry Point
+The site is written as a product showcase and brand manual centered on focused reading, calm design, and long-term knowledge capture.
+
+## Entry Page
 
 - `index.md`
 
-## Documentation Pages
+## Main Sections
 
 - `docs/overview.md`
 - `docs/experience.md`
@@ -20,8 +22,3 @@ This repository is now a Markdown-only website source.
 - `docs/contact-us.md`
 - `docs/privacy-policy.md`
 - `docs/terms-and-conditions.md`
-
-## Notes
-
-- The previous Next.js application code and config have been removed.
-- Markdown files are now tracked in git and ready for static docs hosting.

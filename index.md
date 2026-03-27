@@ -1,35 +1,66 @@
-# ngpocket
+# Reader
 
-A calm reading space for people who care more about understanding than endless scrolling.
+![Reader App Icon](assets/web/icon-512.png)
 
-ngpocket is built for focused, intentional reading. It is inspired by the spirit of Mozilla Pocket, and reimagined with a personal style centered on clarity, warmth, and low-noise design.
+**Your calm, beautifully crafted reading space.**
 
-## Brand Motto
+Reader is a premium RSS reader and read-later app built with Flutter. It is designed from the ground up for people who value deep, distraction-free reading — not another endless scroll.
 
-Read with intent. Keep what matters. Ignore the rest.
+---
 
-## What This Website Is
+## Read without the noise.
 
-This website is a product showcase and brand manual for ngpocket. It describes the philosophy, feature values, and experience principles behind the app.
+The modern web bombards you with content designed to capture attention, not support understanding. Reader is the antidote. A tranquil inbox, fluid interactions, and elegant typography create a reading experience that feels like a breath of fresh air.
+
+> *Read with intent. Save what matters. Own your information diet.*
+
+---
+
+## What Makes Reader Different
+
+### A Calm Reading Inbox
+Articles arrive with subtle colored dots that tell you exactly which RSS source they belong to. Unread and read states are clear at a glance. No algorithmic noise — just your content, beautifully listed.
+
+### Folders & Source Organization
+Group your RSS feeds into custom folders inspired by Feedly's organization model. A horizontally scrollable chip bar lets you instantly filter your inbox by folder or source with a single tap.
+
+### Swipe-to-Read
+Triage your daily reading like you're flipping through cards. Swipe through articles fluidly, mark them read, save them to your Library, or dive into the full text — all without losing your flow.
+
+### Personal Library & Highlights
+Save any article to your personal Library. Highlight passages that matter and share them as beautiful, stylized cards to social media or messaging apps. Your insights, beautifully preserved.
+
+### Smart Notifications
+Choose your reading cadence: from 1 to 10 notifications a day. No spam, no interruptions — just a curated digest when you want it.
+
+### Premium Reader
+For those who want the full experience. A premium tier unlocks the complete power of Reader, designed for discerning readers who demand the best.
+
+---
+
+## Design Philosophy
+
+Reader is built around a bespoke palette of calming tones — Clay, Mist Blue, and Sage — set against a warm paper-like background. Fluid micro-animations, soft rounded cards, and elegant typography make every interaction feel intentional and refined.
+
+This is software that respects your attention.
+
+---
 
 ## Explore
 
-- [Vision and Philosophy](docs/overview.md)
-- [Product Experience](docs/experience.md)
-- [Feature Set](docs/features.md)
+- [Vision and Design Philosophy](docs/overview.md)
+- [Complete Feature Set](docs/features.md)
+- [Product Experience & Design Language](docs/experience.md)
+- [The Reading & Swipe Experience](docs/reader.md)
+- [RSS Feeds & Folder Organization](docs/rss.md)
+- [Library & Highlights](docs/library.md)
+- [Smart Notifications & Settings](docs/settings.md)
 - [Reliability Principles](docs/architecture.md)
-- [Reader Experience](docs/reader.md)
-- [Content Sources and RSS](docs/rss.md)
-- [Saved Knowledge Space](docs/library.md)
-- [Personalization and Control](docs/settings.md)
 - [Support](docs/help.md)
-- [Contact Us](docs/contact-us.md)
+- [Contact](docs/contact-us.md)
 - [Privacy Policy](docs/privacy-policy.md)
 - [Terms and Conditions](docs/terms-and-conditions.md)
 
-## Core Beliefs
+---
 
-- Reading should feel quiet, not chaotic.
-- Saved content should become knowledge, not clutter.
-- Interfaces should reduce decisions, not create more.
-- Offline reliability is a feature, not a fallback.
+*Built with Flutter. Designed for readers who care.*

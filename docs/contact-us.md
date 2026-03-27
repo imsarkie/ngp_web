@@ -1,19 +1,26 @@
-# Contact Us
+# Contact
 
-Reach out for product questions, partnerships, support, or feedback about the ngpocket reading philosophy.
+We would love to hear from you. Reader is an independently developed app and every piece of feedback directly shapes its future.
 
-## Contact Channels
+## Get in Touch
 
-- General: `hello@ngpocket.app`
-- Support: `support@ngpocket.app`
-- Product Feedback: `feedback@ngpocket.app`
+| Purpose | Email |
+|---|---|
+| General inquiries | `hello@reader.imsarkie.in` |
+| App support & bug reports | `support@reader.imsarkie.in` |
+| Product feedback | `feedback@reader.imsarkie.in` |
+| Press & partnerships | `hello@reader.imsarkie.in` |
 
 ## Response Time
 
-Typical response time is 1-2 business days.
+We typically respond within 1–2 business days. Bug reports and support requests are prioritized.
 
-## Related
+## Feedback Philosophy
 
-- [Help](help.md)
+Reader is built by someone who uses it every day. Your feedback isn't sent to a support ticket queue — it goes to the person who wrote the code. Thoughtful feedback (feature ideas, pain points, design suggestions) is especially welcome.
+
+---
+
+- [Support](help.md)
 - [Privacy Policy](privacy-policy.md)
 - [Terms and Conditions](terms-and-conditions.md)

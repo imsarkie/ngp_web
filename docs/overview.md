@@ -1,26 +1,37 @@
-# Vision and Philosophy
+# Vision and Design Philosophy
 
-ngpocket exists for one reason: to protect attention.
+![Reader Icon](../assets/web/icon-192.png)
 
-The modern web is excellent at collecting clicks but poor at supporting deep reading. ngpocket takes the opposite approach. It treats your reading time as limited and valuable.
+Reader exists because reading deserves better.
 
-## Why We Built It
+The modern web is outstanding at engineering distraction. Algorithmic feeds, notification badges, and endless scroll — they are all optimized for time-on-screen, not comprehension. Reader is built with the opposite goal: to protect your attention and make deep reading a genuine pleasure.
 
-When Mozilla Pocket was discontinued, many readers lost a familiar way to save and revisit meaningful articles. ngpocket continues that category with a distinct voice: simpler, more tactile, and more personal.
+## Why Reader Was Built
 
-## Philosophy
+I was tired of cluttered, overwhelming news feeds. I wanted an app that felt like a beautifully bound book, not a social media dashboard. Reader was designed from the ground up to create a serene, distraction-free environment where consuming your favorite content feels like a joy rather than a chore.
 
-- Un-distracted reading over engagement loops
-- Intentional curation over infinite feeds
-- Lasting clarity over temporary novelty
-- Quiet confidence over visual noise
+## Design Philosophy
 
-## Product Character
+Reader's aesthetic is centered on warmth, calm, and restraint:
 
-ngpocket combines a warm editorial tone with practical utility. It is built to feel human, grounded, and dependable.
+- **Bespoke color palette** — Clay, Mist Blue, and Sage tones set against a warm paper-like background (`#FFFCF5`)
+- **Elegant typography** — Clean, readable typefaces with generous spacing and clear hierarchy
+- **Fluid micro-animations** — Subtle opacity transitions, smooth navigation, and tactile interactions that feel alive without being distracting
+- **Rounded cards and soft shadows** — A UI that feels physical, personal, and premium
 
-## Related
+## Core Beliefs
 
-- [Product Experience](experience.md)
-- [Feature Set](features.md)
-- [Reader Experience](reader.md)
+- Reading time is finite and precious. Every design decision should defend it.
+- A clean interface is not an absence of features — it is a mastery of prioritization.
+- Premium design and focused utility are not mutually exclusive.
+- Software should feel calm. Calm software produces clear thinking.
+
+## Who It's For
+
+Reader is built for discerning readers, professionals, researchers, and tech enthusiasts who value design, privacy, and genuine control over their information diet. If you appreciate good typography, respect dark modes, and want software that earns your attention rather than hijacking it — Reader is for you.
+
+---
+
+- [Complete Feature Set](features.md)
+- [Product Experience & Design Language](experience.md)
+- [The Reading Experience](reader.md)

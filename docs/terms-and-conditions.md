@@ -1,32 +1,44 @@
 # Terms and Conditions
 
-These terms govern use of the ngpocket website.
+*Last updated: March 2026*
+
+These terms govern use of the Reader website at `reader.imsarkie.in` and the Reader application.
 
 ## 1. Scope
 
-This site is provided for informational purposes about ngpocket's product vision, feature set, and brand direction.
+This site is provided for informational purposes about Reader's product vision, features, and brand identity. By using this website or the Reader app, you agree to these terms.
 
-## 2. Content Usage
+## 2. The Reader App
 
-You may read, reference, and share links to this website content. Do not misrepresent the content as your own official product material.
+Reader is provided as an independently developed application. Premium features are available via an in-app purchase. Subscription and purchase terms are governed by the applicable app store (Apple App Store or Google Play Store) at the time of purchase.
 
-## 3. No Warranty
+## 3. Content Usage
 
-Content is provided "as is" without warranties of completeness, accuracy, or fitness for a specific purpose.
+You may read, reference, and share links to this website's content. You may not misrepresent this content as your own official product material, reproduce it wholesale without attribution, or use it in a misleading context.
 
-## 4. Limitation of Liability
+## 4. User Content
 
-To the extent permitted by law, site maintainers are not liable for direct or indirect damages resulting from use of this documentation.
+Reader stores your data locally on your device. Any content you save, highlight, or annotate within the app remains your property. Reader claims no ownership or license over your personal saved content.
 
-## 5. Changes
+## 5. No Warranty
 
-These terms may be updated as the website evolves.
+The Reader app and this website are provided "as is" without warranties of completeness, accuracy, fitness for a particular purpose, or uninterrupted availability. We make reasonable efforts to maintain reliability but cannot guarantee it absolutely.
 
-## 6. Contact
+## 6. Limitation of Liability
 
-For legal or website questions, use [Contact Us](contact-us.md).
+To the fullest extent permitted by applicable law, the developers of Reader are not liable for direct or indirect damages, data loss, or any other harm resulting from use of the app or this website.
 
-## Related
+## 7. Changes
+
+These terms may be updated as the product and website evolve. Continued use of the app or website after changes constitutes acceptance of the updated terms.
+
+## 8. Contact
+
+For legal or terms-related questions, contact us at `hello@reader.imsarkie.in`.
+
+See also: [Contact Us](contact-us.md)
+
+---
 
 - [Privacy Policy](privacy-policy.md)
 - [Contact Us](contact-us.md)

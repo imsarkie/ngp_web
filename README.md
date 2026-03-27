@@ -22,7 +22,7 @@ App icons live in `assets/web/`. See `assets/web/README.txt` for HTML `<head>` a
 - `docs/library.md` — Personal Library and Highlights
 - `docs/settings.md` — Smart Notifications and personalization
 - `docs/architecture.md` — Reliability and local-first principles
-- `docs/help.md` — Support
+- `docs/about-us.md` — About Reader
 - `docs/contact-us.md` — Contact
 - `docs/privacy-policy.md` — Privacy Policy
 - `docs/terms-and-conditions.md` — Terms and Conditions

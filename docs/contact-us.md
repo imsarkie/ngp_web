@@ -21,6 +21,6 @@ Reader is built by someone who uses it every day. Your feedback isn't sent to a 
 
 ---
 
-- [Support](help.md)
+- [About Us](about-us.md)
 - [Privacy Policy](privacy-policy.md)
 - [Terms and Conditions](terms-and-conditions.md)

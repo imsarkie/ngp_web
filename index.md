@@ -1,6 +1,10 @@
 # Reader
 
-![Reader App Icon](assets/web/icon-512.png)
+![Reader App Icon](assets/web/icon-192.png)
+
+---
+
+[Contact](docs/contact-us.md) | [About Us](docs/about-us.md) | [Privacy Policy](docs/privacy-policy.md) | [Terms and Conditions](docs/terms-and-conditions.md)
 
 **Your calm, beautifully crafted reading space.**
 
@@ -56,10 +60,7 @@ This is software that respects your attention.
 - [Library & Highlights](docs/library.md)
 - [Smart Notifications & Settings](docs/settings.md)
 - [Reliability Principles](docs/architecture.md)
-- [Support](docs/help.md)
-- [Contact](docs/contact-us.md)
-- [Privacy Policy](docs/privacy-policy.md)
-- [Terms and Conditions](docs/terms-and-conditions.md)
+
 
 ---
 
